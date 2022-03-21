@@ -1,0 +1,20 @@
+1. Hold down [STEP2] and switch on the power.
+
+2. Connect your computer to the TR-8’s USB port via USB cable.
+
+3. Open the “TR-8” drive folder on your computer.
+
+4. Copy the TR-8 kit/pattern files in the “BACKUP” folder to your computer.
+
+        KIT 1–16            TR8_KIT1.PRM–TR8_KIT16.PRM
+PATTERN 1–16            TR8_PTN1.PRM–TR8_PTN16.PRM
+
+5. After copying is completed, disconnect the USB cable.
+
+Windows 8/7
+Right-click on the “TR-8” icon in “My Computer” and execute “Eject.”
+
+Mac OS
+Drag the “TR-8” icon to the Trash icon in the Dock.
+
+6. Turn the TR-8 power off.

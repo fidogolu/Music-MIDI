@@ -1,0 +1,8 @@
+Follow the instructions from Roland up to the point where you disconnect the
+Tr-8 physically from your computer (i.e. pull the USB cable). Do NOT switch
+off the Tr-8 while the pads blink in rainbow colors. Try to count to 20, get you
+a fresh cup of coffee or count the number of different colors that are
+displayed on the pads. At some point the rainbow pattern switches to all pads
+blinking in one single color: GREEN.
+
+Now you can switch off the Tr-8 and the restore is successfully.
